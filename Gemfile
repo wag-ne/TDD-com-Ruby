@@ -42,7 +42,7 @@ group :development, :test do
   gem 'capybara'
   gem 'factory_bot_rails', '~> 4.0'
   gem 'faker'
-  gem 'httparty', '~> 0.15.6'
+  gem 'httparty', '~> 0.21.0'
   gem 'webmock'
   gem 'vcr'
   gem 'shoulda-matchers'
